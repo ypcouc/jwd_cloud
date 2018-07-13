@@ -3,7 +3,7 @@ democonfigclient:
   message: hello spring cloud
 spring:
   rabbitmq:
-      host: rabbitmq-server1
+      host: rabbitmq-server
       port: 5672
       username: admin
       password: admin
